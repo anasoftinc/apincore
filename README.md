@@ -9,7 +9,7 @@ Deployment:
 
 1)Execute ApiNCore.vsix or visit https://marketplace.visualstudio.com/items?itemName=anasoft-code.ApiNcore1
 
-2)Open template from VS and create new solution
+2)Open template from VS2017 and create new solution
 
 3)VS2017 should restore nuget depedencies automaticaly. Otherwise open each project in new solution right click a project -> Manage Nuget Packages -> Restore
 
