@@ -13,4 +13,4 @@ Deployment:
 
 3)VS2017 should restore nuget depedencies automaticaly. Otherwise open each project in new solution right click a project -> Manage Nuget Packages -> Restore
 
-Full-featured VSIXs(EF and Dapper versions) versions you can get from http://www.anasoft.net/apincore
+Full-featured VSIXs(EF and Dapper with XUnit integration project tests and Postaman API tests) versions you can get from http://www.anasoft.net/apincore
