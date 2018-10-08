@@ -1,0 +1,39 @@
+﻿
+dotnet restore
+
+https://www.nuget.org/packages/Microsoft.AspNetCore
+install-Package Microsoft.AspNetCore -Version 2.1.0
+
+https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication/
+PM> Install-Package Microsoft.AspNetCore.Authentication -Version 2.1.1
+
+https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc/
+PM> Install-Package Microsoft.AspNetCore.Mvc -Version 2.1.1
+
+https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer/
+PM> Install-Package Microsoft.AspNetCore.Authentication.JwtBearer -Version 2.1.1
+
+https://www.nuget.org/packages/automapper/
+PM> Install-Package AutoMapper -Version 7.0.
+
+https://www.newtonsoft.com/json
+PM> Install-Package Newtonsoft.Json
+
+//required when use this db provider
+Install-Package Microsoft.EntityFrameworkCore.InMemory
+
+PM> Install-Package Serilog.AspNetCore -DependencyVersion Highest
+PM> Install-Package Serilog.Sinks.Console
+PM> Install-Package Serilog.Sinks.File
+PM> Install-Package Serilog.Sinks.Loggly
+PM> Install-Package Serilog.Settings.Configuration
+
+
+-------------
+Serilog Logger
+https://github.com/serilog/serilog-aspnetcore
+https://itnext.io/loggly-in-asp-net-core-using-serilog-dc0e2c7d52eb
+https://www.blinkingcaret.com/2018/02/14/net-core-console-logging/
+https://nblumhardt.com/2017/08/use-serilog/
+https://github.com/loggly/log4net-loggly/#net-core-support
+

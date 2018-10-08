@@ -1,0 +1,4 @@
+﻿
+https://www.nuget.org/packages/automapper/
+PM> Install-Package AutoMapper -Version 7.0.0
+

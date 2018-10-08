@@ -1,0 +1,15 @@
+﻿
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/ 
+PM> Install-Package Microsoft.EntityFrameworkCore -Version 2.1.0
+
+https://duszekmestre.github.io/dsp2017/2017/03/26/repository-pattern-unit-of-work/
+PM> Install-Package Microsoft.EntityFrameworkCore.InMemory
+PM> Install-Package Microsoft.EntityFrameworkCore.SqlServer
+PM> Install-Package Microsoft.EntityFrameworkCore.Tools
+
+https://www.nuget.org/packages/Microsoft.AspNet.Identity.EntityFramework/
+PM>Install-Package Microsoft.AspNet.Identity.EntityFramework -Version 2.2.1
+
+https://www.newtonsoft.com/json
+PM> Install-Package Newtonsoft.Json
+
