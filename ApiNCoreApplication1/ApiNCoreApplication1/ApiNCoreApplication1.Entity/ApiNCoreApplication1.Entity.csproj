@@ -9,7 +9,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="2.1.0" developmentDependency="true"/>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.0" developmentDependency="true"/>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.0" developmentDependency="true"/>
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" developmentDependency="true"/>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" developmentDependency="true"/>
   </ItemGroup>
 
 </Project>
